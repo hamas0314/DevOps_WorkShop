@@ -11,7 +11,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4    
         name: Barani CI/CD
-         run:
-             echo my name is Hamas Abbasi
+        run:
+            echo my name is Hamas Abbasi
            
             
